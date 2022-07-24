@@ -63,6 +63,9 @@ TRANSACTION_ID  	CUSTOMER_ID  	PURCHASE_PRICE  	TRANSACTION_DATE
 6					Cust3			125					01/Jun/2022
 7					Cust3			250					10/Jul/2022
 
+![image](https://user-images.githubusercontent.com/103448400/180657976-39af4396-1e49-44d4-9da3-595c4f4b5520.png)
+
+
 - To check complete initial dataset of the DB :
 - Open the browser and hit the link : http://localhost:8080/h2-console
 - JDBC URL:	jdbc:h2:mem:testdb
@@ -73,6 +76,6 @@ TRANSACTION_ID  	CUSTOMER_ID  	PURCHASE_PRICE  	TRANSACTION_DATE
 - Click Run button in the header row.
 
 ## To access the API actuator and health :
--- use this link in the browser to access the Actuator : http://localhost:8080/actuator/
--- use this link in the browser to access the Health of the API : http://localhost:8080/actuator/health/
+- use this link in the browser to access the Actuator : http://localhost:8080/actuator/
+- use this link in the browser to access the Health of the API : http://localhost:8080/actuator/health/
  
